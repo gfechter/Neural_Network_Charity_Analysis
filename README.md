@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Project Overview
-Alphabet Soup, a non-profit, has requested assistance determining whether or not an organization will be successful if funded by Alphabet Soup for a project. Specifically, the non-profit requested assistance in creating a binary classifier that can predict success rates. Additionally, a neural network model will be designed. Data for over 34,000 organizations will be used for this project. The first step for this project is to preprocess the data for a neural network model. The second step is to compile, train, and evaluate the model. The third and final step is to optimize the model. The goal of the model is to have a predictive accuracy higher than 75% for whether or not the organization will be successful if funded. 
+Alphabet Soup, a non-profit, has requested assistance determining whether or not an organization will be successful if funded by Alphabet Soup for a project. Specifically, the non-profit requested assistance in creating a binary classifier that can predict success rates. Data for over 34,000 organizations will be used for this project. The first step for this project is to preprocess the data for a neural network model. The second step is to compile, train, and evaluate the model. The third and final step is to optimize the model. The goal of the model is to have a predictive accuracy higher than 75% for whether or not the organization will be successful if funded. 
 
 
 ## Resources
